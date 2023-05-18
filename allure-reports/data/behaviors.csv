@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Users with correct URL should be able to navigate to Hitachi and invalid URL should be rejected","","0","0","2","0","0"
+"","User should be able to search valid keywords to Hitachi and successfully open the search result","","0","0","3","0","0"
+"","User should be able to search via API","","0","0","1","0","0"

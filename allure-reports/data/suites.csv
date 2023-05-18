@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 18 03:05:38 IST 2023","Thu May 18 03:05:49 IST 2023","11268","","","","","","Users with correct URL should reach on Hitachi Home page",""
+"passed","Thu May 18 03:05:49 IST 2023","Thu May 18 03:05:54 IST 2023","5413","","","","","","User with wrong URL should get error",""
+"passed","Thu May 18 03:06:06 IST 2023","Thu May 18 03:06:18 IST 2023","11754","","","","","","Invalid keyword shows no result displayed",""
+"passed","Thu May 18 03:05:37 IST 2023","Thu May 18 03:05:38 IST 2023","726","","","","","","User should be able to search via API",""
+"passed","Thu May 18 03:06:18 IST 2023","Thu May 18 03:06:32 IST 2023","13974","","","","","","User should be able to successfully open the search results",""
+"passed","Thu May 18 03:05:54 IST 2023","Thu May 18 03:06:06 IST 2023","11797","","","","","","User wish to search should be able to successfully get search result",""
